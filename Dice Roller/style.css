@@ -1,0 +1,28 @@
+div{
+    text-align: center;
+    margin-top: 10vh;
+}
+input{
+    margin: 20px 20px;
+    width:20%;
+    text-align: center;
+    border-radius: 10px;
+    height:30px;
+}
+button{
+    width:150px;
+    border:none;
+    background-color: rgb(230, 102, 102);
+    font-size: 1.5em;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    transition-duration:0.5s;
+}
+button:hover{
+    background-color: rgb(229, 43, 43);
+    cursor:pointer;
+}
+#resultNum{
+    font-size:1.5em;
+}
